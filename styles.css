@@ -1,0 +1,15 @@
+* {
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+}
+
+h1 {
+    background-color: white;
+    text-align: center;
+    font-size: 28px;
+}
+
+.main-image {
+    width: 600px;
+}
